@@ -105,21 +105,6 @@ Masih banyak ide dan project yang ingin aku kembangkan untuk meningkatkan skill 
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keyraoctavia&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keyraoctavia&bg_color=1a1b27&color=9f7aea&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
